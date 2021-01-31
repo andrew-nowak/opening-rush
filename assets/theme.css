@@ -1,0 +1,44 @@
+/* This file was originally copied from <https://github.com/ornicar/chessground-examples/blob/6d27109fbf550226b50e631429b17d34ccf581f1/assets/theme.css>, licensed under GPL-3 */
+/*
+ * Board
+ */
+.blue.cg-wrap {
+  background-image: url('images/board.svg');
+}
+
+.merida.cg-wrap piece.pawn.white {
+  background-image: url('images/wP.svg');
+}
+.merida.cg-wrap piece.bishop.white {
+  background-image: url('images/wB.svg');
+}
+.merida.cg-wrap piece.knight.white {
+  background-image: url('images/wN.svg');
+}
+.merida.cg-wrap piece.rook.white {
+  background-image: url('images/wR.svg');
+}
+.merida.cg-wrap piece.queen.white {
+  background-image: url('images/wQ.svg');
+}
+.merida.cg-wrap piece.king.white {
+  background-image: url('images/wK.svg');
+}
+.merida.cg-wrap piece.pawn.black {
+  background-image: url('images/bP.svg');
+}
+.merida.cg-wrap piece.bishop.black {
+  background-image: url('images/bB.svg');
+}
+.merida.cg-wrap piece.knight.black {
+  background-image: url('images/bN.svg');
+}
+.merida.cg-wrap piece.rook.black {
+  background-image: url('images/bR.svg');
+}
+.merida.cg-wrap piece.queen.black {
+  background-image: url('images/bQ.svg');
+}
+.merida.cg-wrap piece.king.black {
+  background-image: url('images/bK.svg');
+}

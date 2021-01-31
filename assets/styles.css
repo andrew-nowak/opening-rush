@@ -1,0 +1,14 @@
+@import './chessground.css';
+
+#root {
+    display: flex;
+}
+
+#board-root {
+    margin-right: 2rem;
+    min-width: 600px;
+}
+
+#pgnentry {
+    display: block;
+}
